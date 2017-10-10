@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E4F7-8C38
+
+ R‚pertoire de C:\Users\Bilog\Desktop\myProject
+
+10/10/2017  14:31    <DIR>          .
+10/10/2017  14:31    <DIR>          ..
+10/10/2017  14:31                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  77ÿ624ÿ397ÿ824 octets libres
